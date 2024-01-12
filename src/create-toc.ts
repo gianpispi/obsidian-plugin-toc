@@ -86,10 +86,8 @@ export const createToc = (
       return `${prefix} ${anchor(heading.heading)}`;
     else if (settings.useMarkdown) 
       linkText = encodeURI(heading.heading);
-    else if (typeof previousLevelHeading == "undefined")
+    else
       linkText = heading.heading;
-    else 
-      linkText = `${previousLevelHeading.heading}#${heading.heading}`;
 
     // wikilink format
     if (!settings.useMarkdown)
