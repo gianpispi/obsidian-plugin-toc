@@ -1,3 +1,47 @@
+# 0.2.1 (Fri Jan 12 2024)
+
+#### 🐛 Bug Fix
+
+- Revert "Fix subheadings" [#2](https://github.com/gianpispi/obsidian-plugin-toc/pull/2) ([@gianpispi](https://github.com/gianpispi))
+- Fix subheadings [#1](https://github.com/gianpispi/obsidian-plugin-toc/pull/1) ([@gianpispi](https://github.com/gianpispi))
+
+#### ⚠️ Pushed to `main`
+
+- feat: added options for MD links and GH links ([@4very](https://github.com/4very))
+- types: added types for anchor-markdown-header ([@4very](https://github.com/4very))
+- dep-add: added anchor-markdown-header ([@4very](https://github.com/4very))
+- maximumDepth slider bug fix ([@x89cyber](https://github.com/x89cyber))
+- add previous level heading to the link ([@f1238762001](https://github.com/f1238762001))
+- add fancy ordered list instructions ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- fix generating top level TOC when minimumDepth > 1 ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- show. Notice when no headers are matched ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- add newline at end of TOC ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- move to obsidian-plugin-cli ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- improve docs ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- fix indentation of headings ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- simplify getting active file ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- code review ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- Use heading cache instead of regex ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- fix description ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- remove unnecassary file name ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- use working plugin ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- update auto version ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- update auto plugin ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- update auto ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- pdate automation ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- add another command ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- init ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 5
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- avery ([@4very](https://github.com/4very))
+- Gianpiero Spinelli ([@gianpispi](https://github.com/gianpispi))
+- paul_lin ([@f1238762001](https://github.com/f1238762001))
+- xoltar89 ([@x89cyber](https://github.com/x89cyber))
+
+---
+
 # 0.2.0 (Thu May 11 2023)
 
 #### 🚀 Enhancement

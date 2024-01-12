@@ -88,7 +88,7 @@ export const createToc = (
       linkText = encodeURI(heading.heading);
     else
       linkText = heading.heading;
-    
+
     // wikilink format
     if (!settings.useMarkdown)
       return `${prefix} [[#${linkText}|${displayText}]]`;
