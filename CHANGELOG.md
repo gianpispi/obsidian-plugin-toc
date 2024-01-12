@@ -1,3 +1,15 @@
+# 0.2.2 (Fri Jan 12 2024)
+
+#### 🐛 Bug Fix
+
+- Fix subheadings [#3](https://github.com/gianpispi/obsidian-plugin-toc/pull/3) ([@gianpispi](https://github.com/gianpispi))
+
+#### Authors: 1
+
+- Gianpiero Spinelli ([@gianpispi](https://github.com/gianpispi))
+
+---
+
 # 0.2.1 (Fri Jan 12 2024)
 
 #### 🐛 Bug Fix
